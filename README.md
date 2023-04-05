@@ -5,7 +5,7 @@ The scripts rely on the [CPFloat](https://github.com/north-numerical-computing/c
 
 ### References
 
- [1] M. Mikaitis. [*Monotonicity of Multi-Term Floating-Point Adders*](https://arxiv.org/abs/).	arXiv: Apr. 2023.
+ [1] M. Mikaitis. [*Monotonicity of Multi-Term Floating-Point Adders*](https://arxiv.org/abs/2304.01407).	arXiv:2304.01407 [cs.MS]. Apr. 2023.
 
 ### License
 
